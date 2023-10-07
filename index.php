@@ -8,8 +8,7 @@
 </head>
 <body>
     <h1>
-        Em breve estará online.     
-    </h1>
+        Em breve estará online Obrigado!
     <a href="./admin">Admin</a>
 </body>
 </html>

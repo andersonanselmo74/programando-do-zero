@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Em breve</title>
+    <title>Construindo para a Web</title>
 </head>
 <body>
-    <h1>
-        Em breve estará online Obrigado!
-    <a href="./admin">Admin</a>
+   <h1>
+        Olá este Material é para fim de Estudos 
+   </h1>
+        <a href="./admin/">Admin</a>
 </body>
 </html>
